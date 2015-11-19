@@ -13,10 +13,11 @@ be learning.
 I have always been interested in problem solving and so that's why I went on to
 do a bachelor's and postgraduate degree in Mathematics. I was invited to sit the
 final round of the British Maths Olympiad in 2008 and 2009. I have also been
-able to translate this to coding, as demonstrated in my Sudoku Challenge, where
-I was able to implement an algorithm which solves any sudoku through
-backtracking. I am used to breaking down and solving a complex problems because
-that is a process I am already familiar with from Maths.
+able to translate this to coding, as demonstrated in my <a
+href="https://github.com/adrianw1832/sudoku_challenge/blob/master/app/public/javascript/sudoku.js">Sudoku
+Challenge</a>, where I was able to implement an algorithm which solves any
+sudoku through backtracking.  I am used to breaking down and solving a complex
+problems because that is a process I am already familiar with from Maths.
 
 #### Communication
 
@@ -40,9 +41,9 @@ the neat and elegant solutions you can have to a Maths problem. The standard
 curriculum introduced us to Ruby, Javascript, Jquery, Angular, Rails and their
 respective testings suites, but I also experimented with other technologies like
 Node, Express, Mongo, HTML Canvas and various other libraries. I started doing
-Upcase right after I graduated and have since fallen in love with Vim. To share
-back what I have learnt, I have also given several talks on increasing
-efficiency and Vim.
+Upcase right after I graduated and have since fallen in love with <a
+href="https://www.github.com/adrianw1832/dotfiles">Vim</a>. To share back what I
+have learnt, I have also given several talks on increasing efficiency and Vim.
 
 #### King's College London (2013 - 2014)
 
